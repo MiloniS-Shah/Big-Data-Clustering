@@ -7,6 +7,8 @@ The second column is the cluster that the data point belongs to. The rest column
 
 ![Formula](https://github.com/MiloniS-Shah/Big-Data-Clustering/blob/master/input_data.png)
 
+The dataset can be found as : Dataset_clustering.txt in the repository.
+
 ## Implementaion Details:
 
 Bradley-Fayyad-Reina (BFR) algorithm using hw5_clustering.txt.
